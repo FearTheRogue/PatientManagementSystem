@@ -6,4 +6,5 @@ public class viewdoctorsratings {
     private JPanel panel1;
     private JTextField viewratingtxt;
     private JTextField viewfeedbacknotestxt;
+
 }
